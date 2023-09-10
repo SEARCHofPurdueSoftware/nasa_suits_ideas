@@ -1,0 +1,3 @@
+Ideas:
+Our idea was to make vitals and machinery displayed on the screen because you will need more descriptive and easily accessible information for those two types.
+For the audio output, we discussed that GPS and crew vitals should be on the same channel. You will only need to know the crew vitals in emergency, and you don't need to know your GPS location very often.
