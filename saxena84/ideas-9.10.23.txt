@@ -1,0 +1,8 @@
+priority list:
+
+1. biodata/vitals
+2. machinery statistics
+3. crew vitals
+
+visual: machinery statistics, personal vitals
+audio: emergency crew vitals
