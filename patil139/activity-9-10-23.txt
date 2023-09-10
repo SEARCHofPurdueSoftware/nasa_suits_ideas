@@ -1,0 +1,14 @@
+Game-style HUDs don't really work well in the real world (We should still try this)
+    - Information can be anchored to different parts of the body, like a virtual watch for example
+    - Gestures can be used to open common menus
+
+ArUco markers allow for efficient tracking of flat panels and other objects.
+    - This will be helpful for the UIA task, so we can exactly point to each button 
+
+Navigation
+    - By default, show current navigation system, with a compass around the user
+    - Raw coordinates probably aren't helpful, because they don't effectively communicate in a spatial manner.
+    - Rather, something a la Google Maps Live View
+
+Machinery
+    - Show contextual information about parts needing fixing
