@@ -1,0 +1,7 @@
+Details 
+
+Four types: 
+1) GPS: audio, with your starting point (spaceship, moon base) as the origin and a distance measurement (e.g. 20 miles southwest of base)
+2) Biodata/Vitals: display so it shows exactly where your suit problem is occurring; (e.g. tear on your left shoulder colored in bright red, your avatar display is in blue)
+3) Machinery/Power Data: need to show power percentages at all times since you're working with those tools- don't want to have to check them at all times
+4) Crew Vitals - only need to see in potential emergency situation
